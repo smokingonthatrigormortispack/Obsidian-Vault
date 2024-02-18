@@ -1,0 +1,10 @@
+{
+  "typomagical-colour@@theme-variant": "vileplume",
+  "CG@@CG-workspace-background-image": "CG-workspace-background-image-custom",
+  "CG@@CG-workspace-background-image-custom-option": "\"https://\" - url(\"c4.wallpaperflare.com/wallpaper/349/189/242/azumanga-daioh-osaka-1024x858-anime-azumanga-hd-art-wallpaper-preview.jpg\")",
+  "catppuccin-theme-settings@@catppuccin-theme-accents": "ctp-accent-teal",
+  "catppuccin-theme-settings@@catppuccin-theme-dark": "ctp-macchiato",
+  "catppuccin-icon-styles@@ctp-icon-hide": false,
+  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha",
+  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-latte"
+}

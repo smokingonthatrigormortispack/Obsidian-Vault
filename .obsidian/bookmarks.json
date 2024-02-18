@@ -1,0 +1,43 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1689309609311,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1689309599993,
+          "path": "marine-biophysics unit.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1689309599993,
+          "path": "optical-neuroimaging unit.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1689309599993,
+          "path": "neural-computation unit.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1689309599993,
+          "path": "memory-research unit.md"
+        }
+      ],
+      "title": "emails"
+    },
+    {
+      "type": "file",
+      "ctime": 1691686684640,
+      "path": "Books/The Great Gatsby.md",
+      "subpath": "#^376b18"
+    },
+    {
+      "type": "file",
+      "ctime": 1691757798450,
+      "path": "Books/The Meditations.md",
+      "subpath": "#^1bc5da"
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "main": {
+    "id": "33481e52d6b25d22",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc19db45dcfb6ab5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10dd1e64f1c675b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/The Great Gatsby.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "48d99ebf70af5fd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Diary/Daily Notes/2023-08-16.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0738781c091d59c0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b602fde35c419f8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25463960ac7a900b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "de25ed5a11cff8e3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Diff",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "88fe2709f8b52004",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "78d9436d180e344b",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "7364b72ef9a1fe53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40dcd6cb173b86df",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Books/The Great Gatsby.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 254.5
+  },
+  "right": {
+    "id": "b03dea1a61de14e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3b065a818b1cb6c",
+        "type": "tabs",
+        "dimension": 23.461538461538463,
+        "children": [
+          {
+            "id": "cf1158b424c3f83a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Books/The Great Gatsby.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "3cadbbd2048fde6f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0e6f5586c4ff153c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Books/The Great Gatsby.md"
+              }
+            }
+          },
+          {
+            "id": "54762cb51b08d91d",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "3d268fd90e206948",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "692c6d4cd22015f8",
+        "type": "tabs",
+        "dimension": 32.11538461538462,
+        "children": [
+          {
+            "id": "612808aa4a6c82b3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "6748fef64a3170a0",
+        "type": "tabs",
+        "dimension": 44.42307692307693,
+        "children": [
+          {
+            "id": "17c38a27ff19bdb6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 333.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
+    }
+  },
+  "active": "10dd1e64f1c675b4",
+  "lastOpenFiles": [
+    "Diary/Daily Notes/2023-08-16.md",
+    "Books/The Great Gatsby.md",
+    "Feynman Lectures on Physics Volumes 1,2,3 - Feynman, Leighton and Sands.pdf",
+    "Poetry.md",
+    "Diary/Daily Notes/2023-08-14.md",
+    "Diary/Daily Notes/2023-08-13.md",
+    "Diary/Daily Notes/2023-08-15.md",
+    "calculus.md",
+    "Classical Electrodynamics Notes.md",
+    "_image source/IMG_3845.jpg",
+    "_image source/IMG_3844.jpg",
+    "IMG_3844.jpeg",
+    "SCIHUB.md",
+    "Books/Classical Electrodynamics.md",
+    "Books/Elementary Electronic Structure.md",
+    "Elementary Electronic Structure.md",
+    "Books/Principles of Condensed Matter Physics.md",
+    "Principles of Condense Matter Physics.md",
+    "LINEAR ALGEBRA.md",
+    "LinAlg_Complete.pdf",
+    "DiffEQ.pdf",
+    "MATHHUB.md",
+    "Diary/Daily Notes/2023-08-12.md",
+    "Calculus_Problems.pdf",
+    "Calculus.pdf",
+    "Calc Main Notes.md",
+    "Calc Problems.md",
+    "Diary/Daily Notes/2023-08-11.md",
+    "30e589964d41228110a7030944e8f706.jpg",
+    "sddefault.jpg",
+    "640px-X-intercepts.svg.png",
+    "images.png",
+    "para-1.gif",
+    "Untitled.jpg",
+    "strayposting.md",
+    "voice notes.md",
+    "Onna x OIST School of Science.md",
+    "Books/GURPS Lite 4th Edition.md",
+    "Books/The Martian.md",
+    "Calculus_Solutions.pdf",
+    "Calculus_Assignment.pdf",
+    "_image source/Book Covers/IMG_3697.jpg",
+    "0728_FY2023 OOCSS　class information.pdf",
+    "skinner.pdf",
+    "skinner 1.pdf",
+    "Untitled.canvas"
+  ]
+}
