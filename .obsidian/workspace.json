@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diary/Daily Notes/2024-01-07.md",
+                "file": "Diary/Daily Notes/2024-02-18.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +88,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diary/Daily Notes/2024-01-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diary/Daily Notes/2024-01-07.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -142,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Diary/Daily Notes/2024-01-07.md"
-              }
+              "state": {}
             }
           },
           {
@@ -225,10 +221,45 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "25463960ac7a900b",
+  "floating": {
+    "id": "d53d4f0273013ea8",
+    "type": "floating",
+    "children": [
+      {
+        "id": "9409e1a6ea45ebde",
+        "type": "window",
+        "children": [
+          {
+            "id": "22fca3318ebc52cd",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "989e4c6c133c2eb7",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 550,
+        "y": 178,
+        "width": 395,
+        "height": 398,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "989e4c6c133c2eb7",
   "lastOpenFiles": [
-    "Ayla Kersaning Gusti.md",
+    "Diary/Daily Notes/2024-02-18.md",
+    "_image source/IMG_3844.jpg",
     "Diary/Daily Notes/2024-01-07.md",
+    "Ayla Kersaning Gusti.md",
     "00 Library.md",
     "Books/The 7 Habits of Highly Effective People.md",
     "Book Template.md",
@@ -239,7 +270,6 @@
     "Books/Principles of Condensed Matter Physics.md",
     "Books/Calculus For the Practical Man.md",
     "_image source/Book Covers/cormorantfisherman.jpg",
-    "_image source/IMG_3844.jpg",
     "_image source/IMG_3845.jpg",
     "_image source/Book Covers/IMG_3801.jpg",
     "_image source/Book Covers/IMG_3697.jpg",
@@ -267,9 +297,7 @@
     "Choice Read 2 (One pager).md",
     "Choice Read 1 (250 words).md",
     "Out, Out-.md",
-    "letter to dad.md",
     "~syncthing~.DS_Store.tmp",
-    "Summer Reading 2023.md",
     "IMG_3844.jpeg",
     "LinAlg_Complete.pdf",
     "sddefault.jpg",
