@@ -88,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Diary/Daily Notes/2024-02-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Diary/Daily Notes/2024-02-18.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -140,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Diary/Daily Notes/2024-02-18.md"
+              }
             }
           },
           {
@@ -256,6 +260,7 @@
   },
   "active": "989e4c6c133c2eb7",
   "lastOpenFiles": [
+    "The Jazz Language A Theory Text for Jazz Composition and Improvisation (Dan Haerle) (Z-Library).pdf",
     "Diary/Daily Notes/2024-02-18.md",
     "_image source/IMG_3844.jpg",
     "Diary/Daily Notes/2024-01-07.md",
